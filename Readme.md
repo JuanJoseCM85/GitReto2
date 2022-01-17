@@ -14,3 +14,5 @@ git branch -M main
 git push -u origin main
 
 ## Paso 4 Una vez hecho esto ya podemos subir nuestros archivos a git.
+
+Modificamos el archivo para equivocarnos ...
